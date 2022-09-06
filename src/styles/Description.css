@@ -1,0 +1,9 @@
+.desc-wrapper{
+    background-color: #FFFFFF;
+}
+.desc-row{
+    border-top-left-radius:12px;
+}
+.desc-row p{
+    font-size: 15px;
+}
